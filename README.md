@@ -1,4 +1,4 @@
-#⚽ Football Performance Analysis Dashboard (Tableau)
+<h1>⚽ Football Performance Analysis Dashboard (Tableau) </h1>
 <h2>🎯 PROJECT OVERVIEW </h2>
 
 This project uses Tableau to create a dynamic, interactive dashboard for analyzing football (soccer) team and player performance. The visualization helps turn raw match statistics into clear insights about team strategy and individual player contributions. The main goal is to support scouting and tactical reviews through data.
